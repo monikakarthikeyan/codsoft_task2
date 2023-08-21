@@ -1,0 +1,171 @@
+
+.navbar{
+    display: flex;
+    padding: 20px;
+    padding-left: 70px;
+}
+
+.menu-items{
+    display: flex;
+    gap: 50px;
+    padding-left: 200px;
+}
+.menu:hover{
+    background-color: rgba(230, 3, 230, 0.87);
+    border-radius: 12px;
+    cursor: pointer;
+}
+.about{
+    display:flex;
+    gap:400px;
+}
+.about-content{
+    width: 300px;
+    margin-left: 70px;
+}
+.para{
+    color: gray;
+}
+.social-icons{
+    display: flex;
+    gap: 30px;
+    margin-top: 70px;
+}
+.doing{
+    display: flex;
+    gap: 400px;
+    margin-top: 70px;
+}
+.pro{
+    margin-left: 70px;
+    margin-top: 150px;
+}
+.input{
+    accent-color:  rgba(230, 3, 230, 0.87);
+}
+
+
+.pro-flex{
+    display: flex;
+    gap: 400px;
+}
+
+.calc{
+    border:1px solid lightgray;
+    border-radius: 12px;
+    height: 90px;
+    width: 40%;
+    box-shadow: 3px 5px 9px 4px  rgba(230, 3, 230, 0.87);
+    padding: 12px 200px;
+    margin-top: 50px;
+    text-align: center;
+}
+.project{
+    margin-left: 70px;
+}
+.project{
+    margin-top: 150px;
+}
+.big-project{
+    margin-top: 40px;
+}
+.commerce{
+    border:1px solid lightgray;
+    border-radius: 12px;
+    height: 150px;
+    width: 40%;
+    box-shadow: 3px 5px 9px 4px  rgba(230, 3, 230, 0.87);
+    padding: 12px 100px;
+    text-align: center;
+}
+.commerce:hover{
+    background-color: rgba(230, 3, 230, 0.87); 
+    border: none;
+}
+
+.tech{
+    border:1px solid lightgray;
+    border-radius: 12px;
+    height: 150px;
+    width: 40%;
+    box-shadow: 3px 5px 9px 4px  rgba(230, 3, 230, 0.87);
+    padding: 12px 100px;
+    margin-top: 50px;
+    text-align: center;
+}
+.tech:hover{
+    background-color: rgba(230, 3, 230, 0.87); 
+    border: none;
+}
+.big-project{
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.achieve{
+    margin-top: 150px;
+    margin-left: 70px;
+    
+}
+.achieve-flex{
+    display: flex;
+    gap: 100px;
+}
+.type{
+    border: 1px solid lightgray;
+    border-radius: 12px;
+    height:200px;
+    width: 200px;
+    padding: 12px;
+}
+.type:hover{
+    box-shadow:inset 3px 5px 3px 4px  rgba(230, 3, 230, 0.87);
+}
+.code{
+    border: 1px solid lightgray;
+    border-radius: 12px;
+    height:200px;
+    width: 200px;
+    padding: 12px;
+}
+.code:hover{
+    box-shadow:inset 3px 5px 3px 4px  rgba(230, 3, 230, 0.87);
+}
+.english{
+    border: 1px solid lightgray;
+    border-radius: 12px;
+    height:200px;
+    width: 200px;
+    padding: 12px;
+}
+.english:hover{
+    box-shadow:inset 3px 5px 3px 4px  rgba(230, 3, 230, 0.87);
+}
+.resume{
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.resume{
+    
+    border: 1px solid lightgray;
+    border-radius: 12px;
+     height: 20px;
+     width: 200px;
+    background-color:  rgba(230, 3, 230, 0.87);
+    text-align: center;
+    padding: 20px;
+    margin-left: 500px;
+}
+.file{
+    text-decoration: none;
+    color: white;
+}
+.contact{
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.location{
+    display: flex;
+}
+.location-icon{
+    padding: 17px;
+}
